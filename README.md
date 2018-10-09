@@ -21,7 +21,7 @@
 
 **AngularSpree is an open source Angular(6.x+) front-end application for [Aviacommerce](https://aviacommerce.org).**
 
-It is a plug and play frontend application for AviaCommerce API built with ❤️ using Angular6, Redux, Observables & ImmutableJs.
+It is a plug and play frontend application for [AviaCommerce API](https://www.aviacommerce.org/docs/apis-getting-started.html) built with ❤️ using Angular6, Redux, Observables & ImmutableJs.
 
 However, it is not limited to aviacommerce and can also be used with any e-commerce solution with api interface.
 
